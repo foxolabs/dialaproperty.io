@@ -1,0 +1,1079 @@
+/* Foxolabs.Inc */
+/* Foxolabs.Inc */
+/* Style sheet created*/
+/* TEMPLATE STYLES */
+/* Necessary for full page carousel*/
+
+/*danger-color
+#ff4444
+danger-color-dark
+#CC0000
+elegant-color
+#2E2E2E
+elegant-color-dark
+#212121
+secondary-color
+#aa66cc
+secondary-color-dark
+#9933CC*
+success-color
+#00C851
+success-color-dark
+#007E33
+*/
+
+html,
+body {
+  height: 100%;
+  font-family:"Open Sans", Arial, sans-serif!important;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.7;
+  background: #fff;
+}
+
+.view {
+  height: 100%;
+}
+
+.text-fluid, p {
+  font-size: 16px!important;
+}
+
+/*image responsive tag*/
+
+img {
+  max-width: 100;
+  height: auto;
+}
+
+/* this is to link the div elements*/
+
+.anchor-span {
+  display: block;
+}
+
+/*border for all sides common classes*/
+
+.bottom {
+    border-bottom: 1px solid #CFD8DC;
+}
+
+.border-right {
+  border-right: 1px solid #CFD8DC;
+}
+
+.border-left {
+  border-left: 1px solid #CFD8DC;
+}
+
+.border-top {
+  border-top: 1px solid #212121;
+}
+
+.border-bottom {
+  border-bottom: 1px solid #CFD8DC;
+}
+
+/*add the responsive typography font  <a href="#foxo-services"><span></span>Scroll</a>*/
+
+a {
+  color: inherit!important;
+}
+
+/*std brand colors*/
+
+.fa-android {
+color: #69F0AE;  
+}
+.fa-apple {
+color: #9E9E9E;  
+}
+.fa-windows {
+color: #FF3D00;  
+}
+.fa-html5 {
+color: #FF5722;  
+}
+.fa-css3 {
+color: #00B0FF;  
+}
+.fa-slack {
+color: #FF1744;  
+}
+.fa-cube {
+color: #FF9100;  
+}
+
+
+
+
+/* ******************************************/
+/* Navigation*/
+/* ******************************************/
+
+.navbar {
+  font-color: #212121!important;
+}
+
+@media only screen and (max-width: 768px) {
+  .navbar {
+  background-color: #fff; }
+ }
+
+
+
+.top-nav-collapse {
+  background-color: #651FFF
+}
+
+
+@media (min-width: 779px){   	
+
+.navbar li {
+  margin-left : 1em;
+  margin-right : 1em;
+}
+
+}
+
+@media (max-width: 779px){    
+
+.navbar li {
+  margin-left : 0em;
+  margin-right : 0em;
+}
+
+}
+
+
+/*sub nav section */
+
+@media only screen and (min-width: 776px) 
+{
+.sub-nav li {
+  display: inline-block;
+  padding: 40px;
+  text-align: center;
+}
+}
+
+
+@media only screen and (max-width: 776px) 
+{
+
+.sub-nav {
+  padding: 10px;
+}
+
+.sub-nav li {
+  padding: 5px;
+  text-align: center;
+}
+}
+
+.sub-nav-list ul li a {
+  text-decoration: none!important;
+  color: #000;
+}
+
+
+/* card general properties */
+
+
+/*card-title general properties */
+
+.card {
+  text-align: center;
+  //padding-bottom: 20px;
+}
+
+.card-title {
+  font-weight: bold;
+  font-size: 18px;
+}
+
+.card-text {
+  text-align: left;
+}
+
+.form-control {
+  padding: 10px;
+}
+
+.contact-btn {
+  padding: 0px!important;
+  margin: 0px !important;
+}
+
+/* Underline Effects for the link and headers*/
+
+
+
+#foxo-footer li > a,
+.navbar-nav li > a {
+  position: relative;
+  color: #000;
+  text-decoration: none;
+}
+
+
+#foxo-footer li > a:hover,
+.navbar-nav li > a:hover {
+  color: #000;
+}
+
+
+#foxo-footer li > a:before,
+.navbar-nav li > a:before {
+  content: "";
+  position: absolute;
+  width: 100%;
+  height: 2px;
+  bottom: 0;
+  left: 0;
+  background-color: #1DE9B6;
+  visibility: hidden;
+  -webkit-transform: scaleX(0);
+  transform: scaleX(0);
+  -webkit-transition: all 0.3s ease-in-out 0s;
+  transition: all 0.3s ease-in-out 0s;
+}
+
+#foxo-footer li > a:hover:before,
+.navbar-nav li > a:hover:before {
+  visibility: visible;
+  -webkit-transform: scaleX(1);
+  transform: scaleX(1);
+}
+
+
+/*common link items*/
+
+.sub-nav li > a,
+h5 > a {
+  position: relative;
+  color: #000;
+  text-decoration: none;
+}
+
+.sub-nav li > a:hover,
+h5 > a:hover {
+  color: #000;
+}
+
+.sub-nav li > a:before,
+h5 > a:before {
+  content: "";
+  position: absolute;
+  width: 100%;
+  height: 2px;
+  bottom: 0;
+  left: 0;
+  background-color: #651FFF;
+  visibility: hidden;
+  -webkit-transform: scaleX(0);
+  transform: scaleX(0);
+  -webkit-transition: all 0.3s ease-in-out 0s;
+  transition: all 0.3s ease-in-out 0s;
+}
+
+.sub-nav li > a:hover:before,
+h5 > a:hover:before {
+  visibility: visible;
+  -webkit-transform: scaleX(1);
+  transform: scaleX(1);
+}
+
+
+/*animated hover effect jomp*/
+
+@keyframes bounce_div {
+  0%, 20%, 60%, 100% {
+    -webkit-transform: translateY(0);
+    transform: translateY(0);
+  }
+
+  40% {
+    -webkit-transform: translateY(-20px);
+    transform: translateY(-20px);
+  }
+
+  80% {
+    -webkit-transform: translateY(-10px);
+    transform: translateY(-10px);
+  }
+}
+
+
+/* ******************************************/
+/* index page 
+/* ******************************************/
+
+.header-index {
+  height: auto;
+}
+
+.homepage-hero-module {
+  border-right: none;
+  border-left: none;
+  position: relative;
+  color: #651FFF;
+}
+
+.video-container video {
+  display: none;
+  opacity: .3;
+}
+
+.video-container .poster,
+.touch .video-container .poster {
+  display: block !important;
+}
+.video-container {
+  position: relative;
+  bottom: 0%;
+  left: 0%;
+  height: 100%;
+  width: 100%;
+  overflow: hidden;
+  background: #000;
+}
+.video-container .poster img {
+  width: 100%;
+  bottom: 0;
+  position: absolute;
+}
+.video-container .filter {
+  z-index: 100;
+  position: absolute;
+  background: rgba(0, 0, 0, 0.4);
+  width: 100%;
+}
+.video-container .title-container {
+  z-index: 1000;
+  position: absolute;
+  top: 35%;
+  width: 100%;
+  text-align: center;
+  color: #fff;
+}
+.video-container .description .inner {
+  font-size: 1em;
+  width: 45%;
+  margin: 0 auto;
+}
+.video-container .link {
+  position: absolute;
+  bottom: 3em;
+  width: 100%;
+  text-align: center;
+  z-index: 1001;
+  font-size: 2em;
+  color: #fff;
+}
+.video-container .link a {
+  color: #fff;
+}
+.video-container video {
+  position: absolute;
+  z-index: 0;
+  bottom: 0;
+}
+.video-container video.fillWidth {
+  width: 100%;
+}
+
+/* ******************************************/
+/* foxo-cross platform*/
+/* ******************************************/
+
+@media (max-width: 777px) {
+  #foxo-index-services-mobile,
+  #foxo-index-cross-platform {
+  padding: 40px;  }
+  .foxo-index-service-flow-sec {
+  padding: 10px;
+}
+}
+
+
+@media (min-width: 778px) {
+  #foxo-index-services-mobile,
+  #foxo-index-cross-platform {
+  padding: 40px;  }
+  .foxo-index-service-flow-sec {
+  padding: 40px;
+}
+}
+
+
+.index-service-sub-sec .btn {
+  display: none;
+}
+
+.index-service-sub-sec:hover .btn {
+  display: inline-block;
+}
+
+.index-service-sub-sec {
+  padding: 40px;
+}
+
+
+.index-service-sub-sec:hover {
+  animation: bounce_div 1s;
+  color: #fff!important;
+  background-color:#651FFF;
+  font-color: #fff!important;
+}
+
+
+.index-service-sub-sec .fa {
+  padding: 20px;
+}
+
+/*foxo index cross platoform properties */
+
+
+.foxo-cross-platform-hover .fa {
+  padding: 20px;
+}
+
+
+.foxo-cross-platform-hover {
+  padding: 40px;
+}
+
+
+.foxo-cross-platform-hover:hover {
+  padding: 40px;
+  color:#fff;
+  font-color:#000;
+  background-color: #651FFF;
+}
+  
+
+
+/*sub header of the sections*/
+@media (max-width: 777px) {
+  .foxo-subheader {
+  padding-top:20px;
+  padding-bottom:20px;  }
+}
+
+
+@media (min-width: 778px) {
+ .foxo-subheader {
+  padding-top:20px;
+  padding-bottom:20px;  }
+}
+
+.service-icon {
+  padding: 40px;
+  text-align: center;
+}
+
+
+
+
+
+
+/*sub header of the sections*/
+@media (max-width: 777px) { 
+#index-startup-sub-sec  p {
+  padding: 20px;
+}
+}
+
+
+@media (min-width: 778px) {
+ 
+#index-startup-sub-sec  p {
+  padding: 80px;
+}
+}
+
+
+
+#index-startup-sub-sec > a{
+  text-transform: capitalize!important;
+}
+
+
+/* ******************************************/
+/* foxo-insights section*/
+/* ******************************************/
+
+@media (max-width: 777px) {
+  #foxo-index-insights {
+  padding: 20px;  }
+}
+
+
+@media (min-width: 778px) {
+  #foxo-index-insights {
+  padding: 40px;  }
+}
+
+
+/*foxo-contact section*/
+/*foxo-contact section*/
+
+@media (max-width: 777px) {
+ .foxo-contact {
+  padding-bottom: 20px; }
+}
+
+
+@media (min-width: 778px) {
+ .foxo-contact {
+    padding-top: 40px; 
+  padding-bottom: 40px;  }
+}
+
+
+
+/* ******************************************/
+/* foxo-footer section*/
+/* ******************************************/
+
+@media (max-width: 777px) {
+  #foxo-footer {
+  padding: 40px; 
+  text-align: center; }
+}
+
+
+@media (min-width: 778px) {
+  #foxo-footer {
+  padding: 100px;  }
+}
+
+
+#foxo-footer {
+  font-family:"Open Sans", Arial, sans-serif!important;
+  background-color: #00BFFF;
+  font-size: 16px;
+}
+
+#foxo-footer h5 {
+  font-weight: bold;
+
+}
+
+
+#foxo-footer a {
+  color: inherit;
+}
+
+#foxo-footer >a:hover {
+  color: #B388FF;
+}
+
+
+
+.footer-sub-head h5 {
+  font-weight: bold!important;
+}
+
+#foxo-footer .foxo-footer-links li a {
+color: #727272;
+text-decoration: none;
+}
+
+ .foxo-footer-subheader h3{
+  font-weight: bold;
+ }
+
+ .foxo-footer-subheader p{
+font-size: 16px; }
+
+/*copy right section */
+
+@media (max-width: 776px) {
+  .copyright {
+  padding: 20px;  }
+}
+
+
+@media (min-width: 778px) {
+  .copyright {
+  padding: 60px;  }
+}
+
+.copyright {
+  font-size: 15px!important;
+}
+
+ .foxo-social-icons {
+    font-weight: bold;
+    font-size: 20px;
+ }
+
+.foxo-social-icons img {
+  width: 50%;
+  height: 50%;
+
+}
+
+.foxo-social-icons  li>a:hover {
+  color: #fff;
+}
+
+.copyright ul li {
+  display: inline-block;
+  padding: 10px;
+}
+
+#foxo-footer .copyright a {
+color: #ff4444;
+text-decoration: none!important;
+}
+
+
+/* ******************************************/
+/* foxo startup section  
+/* ******************************************/
+
+.header-startup {
+ background: url("../images/startup_header.jpeg")no-repeat center center fixed;
+            -webkit-background-size: cover;
+            -moz-background-size: cover;
+            -o-background-size: cover;
+            background-size: cover; 
+            height: 70%;
+color: #fff;            
+}
+
+
+/*padding between the sections*/
+@media (max-width: 777px) {
+
+
+2  .faq-header {
+  padding-bottom: 20px;
+}
+}
+
+@media (min-width: 778px) {
+
+
+  .faq-header {
+  padding-bottom: 20px;
+}
+}
+
+
+#foxo-startup {
+  font-family:"Open Sans", Arial, sans-serif!important;
+  background-color: #651FFF;
+  color: #fff;
+}
+
+.foxo-startup-services a {
+  color: inherit;
+}
+
+/*font awesome icon colors teal*/
+
+.foxo-startup-sec .fa,
+.foxo-startup-services .fa {
+  padding: 20px;  
+  color: #1DE9B6;
+}
+
+.foxo-startup-hover {
+  padding: 40px;
+  background-color: #651FFF;
+}
+
+.foxo-startup-hover:hover {
+  padding: 40px;
+  color:#000;
+  background-color: #fff;
+}
+
+.foxo-startup-sec {
+  padding: 40px;
+  background-color: #fff;
+}
+
+.startup-sub-sec {
+  padding: 40px;
+}
+
+.startup-sub-sec:hover {
+  background-color: #7C4DFF;
+  color: #fff!important;
+}
+
+.list-group-item h5 {
+  padding-top: 20px; 
+}
+
+.list-group-item {
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+/* ******************************************/
+/* foxo career section  
+/* ******************************************/
+
+.header-career {
+ background: url("../images/career.jpg")no-repeat center center fixed;
+            -webkit-background-size: cover;
+            -moz-background-size: cover;
+            -o-background-size: cover;
+            background-size: cover; 
+            height: 60%;
+color: #fff;
+}
+
+
+@media (max-width: 777px) {
+  #foxo-career {
+  padding: 20px;  }
+  .foxo-career-sec h4 {
+  padding: 20px;
+}
+.career-positions {
+  padding-bottom: 40px;  }
+}
+
+
+@media (min-width: 778px) {
+  #foxo-career {
+  padding: 10px;  }
+  .foxo-career-sec h4 {
+  padding: 40px;
+}
+.career-positions  {
+  padding-bottom: 80px;  }
+}
+
+
+.foxo-career-sec  .fa {
+  
+}
+
+.foxo-career-sec {
+  padding: 40px;
+  background-color: #fff;
+}
+
+.career-sub-sec {
+  padding: 40px;
+}
+
+.career-sub-sec:hover {
+  background-color: #fafafa;
+  color: #000;
+}
+
+
+.career-positions-sec {
+  padding: 40px;
+  background-color: #ECEFF1;
+  border:.1px solid #CFD8DC;
+}
+
+.career-positions-sec h4 {
+  color:#651FFF;
+}
+
+.career-positions-sec .fa {
+  color:#651FFF;
+  padding-bottom: 20px;
+}
+
+
+
+/* ******************************************/
+/* master section for the rest of the serviices section 
+/* foxo-services*/
+/* ******************************************/
+
+.header-services {
+ background: url("../images/services_header.jpg")no-repeat center center fixed;
+            -webkit-background-size: cover;
+            -moz-background-size: cover;
+            -o-background-size: cover;
+            background-size: cover; 
+            height: 60%;
+color: #fff;
+}
+
+
+/* media queries for  main services section*/
+@media (max-width: 777px) {
+ #foxo-services-mobile,
+ #foxo-services-web,
+ #foxo-services-cyber,
+ #foxo-services-cloud
+  {
+  padding-top:40px; 
+  padding-bottom:15px; 
+  text-align: center; 
+}
+.panel-service,
+.foxo-service-desc-sec {
+  padding: 20px;
+}
+.foxo-service-flow-sec h4 {
+  padding-top: 20px;
+}
+}
+
+@media (min-width: 778px) {
+ #foxo-services-mobile,
+ #foxo-services-web,
+ #foxo-services-cyber,
+ #foxo-services-cloud {
+  padding-top: 40px;
+  text-align: center;  }
+  .panel-service,
+  .foxo-service-desc-sec {
+    padding: 40px;
+  }
+.foxo-service-flow-sec h4 {
+  padding-top: 40px;
+}
+}
+
+ .panel-service {
+  line-height: 32px;
+}
+
+
+/*service panel icon effect font awesome*/
+
+.foxo-service-flow-sec .fa {
+}
+
+
+.service-fa {
+  color: #651FFF;
+  font-size: 44px;
+}
+@media (max-width: 778px){
+  .service-fa {
+    text-align: center;
+  }
+}
+
+
+.foxo-service-flow-sec {
+  background-color: #651FFF;
+  color: #fff;
+}
+
+.service-sub-sec {
+  padding: 50px;
+}
+
+.service-sub-sec:hover {
+  background-color: #fff;
+  color: #212121;
+    
+}
+
+.foxo-hover-inverse {
+  padding: 40px;
+}
+
+.foxo-hover-inverse:hover {
+  padding: 40px;
+  color:#fff;
+  background-color: #651FFF;
+}
+  
+
+
+/* ******************************************/
+/* foxo company section  
+/* ******************************************/
+.header-company {
+ background: url("../images/company_header.jpg")no-repeat center center fixed;
+            -webkit-background-size: cover;
+            -moz-background-size: cover;
+            -o-background-size: cover;
+            background-size: cover; 
+            height: 60%;
+color: #fff;
+}
+
+
+@media (max-width: 777px) {
+#foxo-company-core img,
+#foxo-company-aboutus img {
+  padding: 20px;
+}
+#foxo-company-aboutus,
+#foxo-company-core {
+  padding: 40px;
+}
+
+.aboutus-subsec,
+.core-sub-sec {
+  padding: 20px;
+}
+
+.core-sub-sec h4,
+.aboutus-subsec h4 {
+  padding: 20px;
+}
+
+}
+
+@media (min-width: 778px) {
+#foxo-company-core img,
+#foxo-company-aboutus img {
+  padding: 20px;
+}
+#foxo-company-aboutus,
+#foxo-company-core {
+  padding: 40px;
+}
+.aboutus-subsec,
+.core-sub-sec {
+  padding: 40px;
+}
+
+.core-sub-sec h4,
+.aboutus-subsec h4 {
+  padding: 40px;
+}
+
+}
+
+
+#foxo-company-core {
+  background-color: #9933CC;
+  color: #fff;
+}
+
+/*hover effect for core sub sec*/
+.core-sub-sec:hover {
+  background-color: #fff;
+  color: #9933CC;
+}
+
+
+
+
+/* ******************************************/
+/* foxo insights section  
+/* ******************************************/
+.header-insights {
+  background: url("../images/insights_header.jpg")no-repeat center center fixed;
+            -webkit-background-size: cover;
+            -moz-background-size: cover;
+            -o-background-size: cover;
+            background-size: cover; 
+            height: 60% ;
+color: #fff;
+  //background: rgba(0, 0, 0, 0.5);
+
+//opalcity: .7;
+}
+
+
+@media (min-width: 778px) {
+.foxo-insights-sec
+ {
+  padding: 40px;
+}
+#foxo-insights {
+  padding: 40px;  }
+}
+
+
+@media (max-width: 777px) {
+.foxo-insights-sec
+ {
+  padding: 20px;
+}
+#foxo-insights {
+  padding: 80px;  }
+}
+
+
+
+
+
+
+
+
+
+
+.rent-sell-button {
+    background-color: #2ecc71;
+}
+
+
+
+.rent-button {
+    background-color: #3498DB;
+}
+
+
+
+
+
+.broker-button {
+     background-color: #F64747;
+}
+
+.col-lg-4 {
+    padding-bottom: 2rem;
+}
+
+
+.service-sub-sec:hover {
+  background-color: #00BFFF;
+  color: #ffffff;
+}
+
+
+
+.foxo-services-master {
+  font-family:"Open Sans", Arial, sans-serif!important;
+}
+
+
+@media (max-width: 778px) {
+  .dicard {
+  display: none;
+}
+}
+
+@media (max-width: 778px) {
+  .divcard {
+  height: 100%;
+  width: 100%;
+}
+}
+
+@media (min-width: 779px){    
+
+.mapli {
+  padding-top: 45px;
+}
+
+}
+
+@media (max-width: 779px){    
+
+.mapp {
+  margin-top: 3em;
+}
+
+}
+
+.mapp {
+  border-radius:5px; 
+  width: 500px; 
+  height: 350px;
+}
