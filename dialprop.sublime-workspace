@@ -1,0 +1,1162 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"webpac",
+				"webpack-dev-server"
+			],
+			[
+				"d",
+				"Difference"
+			],
+			[
+				"marg",
+				"margin"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"padd",
+				"padding-right"
+			],
+			[
+				"bro",
+				"border-left"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"backgr",
+				"background-size"
+			],
+			[
+				"cou",
+				"columns"
+			],
+			[
+				"bacgro",
+				"background"
+			],
+			[
+				"u",
+				"url()"
+			],
+			[
+				"back",
+				"background-size"
+			],
+			[
+				"col",
+				"column"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"coin",
+				"container"
+			],
+			[
+				"is",
+				"is-128x128"
+			],
+			[
+				"nav",
+				"nav-item"
+			],
+			[
+				"align",
+				"align-items"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"as",
+				"assets"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"contr",
+				"container"
+			],
+			[
+				"Co",
+				"color"
+			],
+			[
+				"rgb",
+				"rgba()"
+			],
+			[
+				"max",
+				"max-height"
+			],
+			[
+				"ali",
+				"align-content"
+			],
+			[
+				"margi",
+				"margin-top"
+			],
+			[
+				"margin",
+				"margin-left"
+			],
+			[
+				"fon",
+				"font-weight"
+			],
+			[
+				"flex",
+				"flex-shrink"
+			],
+			[
+				"na",
+				"nav-right"
+			],
+			[
+				"nat",
+				"nav-item"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"heo",
+				"hero-body"
+			],
+			[
+				"has",
+				"has-text-centered"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"h",
+				"height"
+			],
+			[
+				"ba",
+				"background-blend-mode"
+			],
+			[
+				"text-a",
+				"text-align"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"fir",
+				"firebase"
+			],
+			[
+				"auto",
+				"autowaf"
+			],
+			[
+				"s",
+				"Pattern       - static_cast<<#type#>>(<#expression#>)"
+			],
+			[
+				"comp",
+				"completions\tstatement"
+			],
+			[
+				"Sa",
+				"SageMath"
+			],
+			[
+				"KERN",
+				"KERN_INFO"
+			],
+			[
+				"print",
+				"printk"
+			],
+			[
+				"ma",
+				"markers\tstatement"
+			],
+			[
+				"exter",
+				"extern-crate\textern crate …;"
+			],
+			[
+				"icon",
+				"iconName"
+			],
+			[
+				"qD",
+				"QDebug"
+			],
+			[
+				"l",
+				"l2"
+			],
+			[
+				"ds",
+				"ds4"
+			],
+			[
+				"ru",
+				"rumbler"
+			],
+			[
+				"r",
+				"rumblel"
+			],
+			[
+				"ds4",
+				"ds4o"
+			],
+			[
+				"b",
+				"b"
+			],
+			[
+				"lef",
+				"leftx"
+			],
+			[
+				"bat",
+				"battery"
+			],
+			[
+				"DS",
+				"DS4Out"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "dialprop.sublime-project",
+			"settings":
+			{
+				"buffer_size": 45,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/User/sub_OF.sublime-build",
+					""
+				],
+				[
+					"Packages/User/sub_OF.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/User/sub_OF.sublime-build",
+					"Clean"
+				]
+			],
+			[
+				"Packages/User/sub_OF.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 400.0,
+		"last_filter": "me",
+		"selected_items":
+		[
+			[
+				"me",
+				"View: Toggle Menu"
+			],
+			[
+				"rein",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"vue",
+				"VUEFormatter"
+			],
+			[
+				"isnt",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"m",
+				"View: Toggle Menu"
+			],
+			[
+				"git dif",
+				"Git: Diff Current File"
+			],
+			[
+				"git rese",
+				"Git: Reset (unstage) Current File"
+			],
+			[
+				"git diff",
+				"Git: Diff Current File"
+			],
+			[
+				"git ",
+				"Git: Status"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"git",
+				"Git: Status"
+			],
+			[
+				"men",
+				"View: Toggle Menu"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"setting",
+				"Preferences: Settings"
+			],
+			[
+				"abou",
+				"About"
+			],
+			[
+				"brow",
+				"Preferences: Browse Packages"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"lis",
+				"Package Control: List Packages"
+			],
+			[
+				"menu",
+				"View: Toggle Menu"
+			],
+			[
+				"settin",
+				"Preferences: Settings"
+			],
+			[
+				"preferen",
+				"Preferences: Settings"
+			],
+			[
+				"bro",
+				"Preferences: Browse Packages"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"a",
+				"About"
+			],
+			[
+				"",
+				"About"
+			],
+			[
+				"tida",
+				"SublimeREPL: Tidal"
+			],
+			[
+				"ti",
+				"SublimeREPL: Tidal"
+			],
+			[
+				"settings",
+				"Preferences: Settings"
+			],
+			[
+				"tid",
+				"SublimeREPL: Tidal"
+			],
+			[
+				"user",
+				"Preferences: orgmode Settings – User"
+			],
+			[
+				"prefere",
+				"Preferences: Settings"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"toml",
+				"Set Syntax: TOML"
+			],
+			[
+				"org",
+				"Set Syntax: orgmode"
+			],
+			[
+				"re",
+				"Package Control: Remove Package"
+			],
+			[
+				"fold",
+				"Project: Add Folder"
+			],
+			[
+				"tab",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"upgr",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"r",
+				"Package Control: Remove Package"
+			],
+			[
+				"exit",
+				"Set Syntax: Textile"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"tabs",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"spa",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"space",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"glue",
+				"Glue - Launch"
+			],
+			[
+				"glu",
+				"Glue - Launch"
+			],
+			[
+				"isnta",
+				"Package Control: Install Package"
+			],
+			[
+				"upd",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"fish",
+				"Set Syntax: Shell Script (fish)"
+			],
+			[
+				"syntax bas",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"about",
+				"About"
+			],
+			[
+				"sett",
+				"Preferences: Settings - User"
+			],
+			[
+				"side",
+				"View: Toggle Open Files in Side Bar"
+			],
+			[
+				"up",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"upda",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"pac",
+				"Package Control: List Packages"
+			],
+			[
+				"glsl",
+				"Open fragment shader with GLSLViewer"
+			],
+			[
+				"make",
+				"Set Syntax: Makefile"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"view",
+				"View: Toggle Menu"
+			],
+			[
+				"sidebar",
+				"View: Toggle Side Bar"
+			],
+			[
+				"Men",
+				"View: Toggle Menu"
+			],
+			[
+				"sideba",
+				"View: Toggle Open Files in Side Bar"
+			],
+			[
+				"brw",
+				"Preferences: Browse Packages"
+			],
+			[
+				"abo",
+				"About"
+			],
+			[
+				"npm",
+				"Nodejs::NPM::Command"
+			],
+			[
+				"add",
+				"Project: Add Folder"
+			],
+			[
+				"packa",
+				"Package Control: List Packages"
+			],
+			[
+				"theme",
+				"SublimeLinter: Choose Gutter Theme"
+			],
+			[
+				"inst\t",
+				"Package Control: Install Package"
+			],
+			[
+				"folder",
+				"Project: Add Folder"
+			],
+			[
+				"tern",
+				"tern_for_sublime: Describe"
+			],
+			[
+				"ter",
+				"tern_for_sublime: Describe"
+			],
+			[
+				"node",
+				"Nodejs::Build Completions"
+			],
+			[
+				"term",
+				"tern_for_sublime: Describe"
+			],
+			[
+				"nodejs",
+				"Nodejs::NPM::Install"
+			],
+			[
+				"dis",
+				"Package Control: Disable Package"
+			],
+			[
+				"vagra",
+				"Vagrant: Init"
+			],
+			[
+				"proje",
+				"Project: Save As"
+			],
+			[
+				"proj",
+				"Project: Add Folder"
+			]
+		],
+		"width": 457.0
+	},
+	"console":
+	{
+		"height": 309.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/sam/projects/web/dialprop"
+	],
+	"file_history":
+	[
+		"/home/sam/projects/web/dialprop/src/App.vue",
+		"/home/sam/projects/web/dialprop/src/assets/style.css",
+		"/home/sam/projects/web/dialprop/src/components/Home.vue",
+		"/home/sam/projects/web/dialaproperty.io/index.html",
+		"/home/sam/projects/web/dialprop/src/main.js",
+		"/home/sam/projects/web/dialprop/build/webpack.base.conf.js",
+		"/home/sam/projects/web/dialprop/src/assets/default.scss",
+		"/home/sam/projects/web/trianz/build/webpack.base.conf.js",
+		"/home/sam/projects/web/dialaproperty.io/css/style1.css",
+		"/home/sam/projects/web/dialaproperty.io/css/style.css",
+		"/home/sam/projects/web/trianz/src/assets/default.scss",
+		"/home/sam/projects/web/dialprop/src/router/index.js",
+		"/home/sam/projects/web/trianz/package.json",
+		"/home/sam/projects/web/trianz/src/main.js",
+		"/home/sam/projects/web/dialprop/src/assets/default.css",
+		"/home/sam/projects/web/dialprop/test/unit/specs/Home.spec.js",
+		"/home/sam/projects/web/dialprop/index.html",
+		"/home/sam/projects/web/dialprop/package.json",
+		"/home/sam/projects/web/dialaproperty.io/Company.html",
+		"/home/sam/documents/paper/a",
+		"/home/sam/projects/web/dialaproperty.io/css/free/_hover-effects.css",
+		"/home/sam/projects/web/webpack-pwa/webpack.config.js",
+		"/home/sam/projects/web/webpack-pwa/app/app.js",
+		"/home/sam/projects/web/webpack-pwa/app/shell.js",
+		"/home/sam/projects/web/webpack-pwa/app/loading/page.js",
+		"/home/sam/projects/web/webpack-pwa/app/dashboard/page.js",
+		"/home/sam/projects/web/webpack-pwa/package.json",
+		"/home/sam/projects/web/dialprop/manifest.json",
+		"/home/sam/projects/web/dialprop/Caddyfile",
+		"/home/sam/projects/web/dialprop/js/main.js",
+		"/home/sam/projects/web/dialprop/sw.js",
+		"/home/sam/projects/web/mmpwa/sw.js",
+		"/home/sam/projects/web/dialprop/js/sw.js",
+		"/home/sam/projects/web/dialprop/src/index.html",
+		"/home/sam/projects/web/dialprop/webpack.config.js",
+		"/home/sam/projects/web/dialprop/src/index.js",
+		"/home/sam/projects/web/dialprop/dist/index.html",
+		"/home/sam/projects/web/dialprop/dist/bundle.js",
+		"/home/sam/documents/bank",
+		"/home/sam/documents/paper/s",
+		"/home/sam/downloads/SU_2.0.3_Guide.txt",
+		"/home/sam/downloads/publickey.smdrz@protonmail.com.txt",
+		"/home/sam/stuff/Qt5/5.9.1/Src/config.opt",
+		"/home/sam/stuff/Qt5/5.9.1/gcc_64/include/QtBluetooth/5.9.1/QtBluetooth/private/bluetoothmanagement_p.h",
+		"/home/sam/stuff/Qt5/5.9.1/Src/qtconnectivity/src/bluetooth/bluez/bluetoothmanagement.cpp",
+		"/home/sam/stuff/Qt5/5.9.1/Src/qtconnectivity/src/bluetooth/qbluetoothsocket_p.h",
+		"/home/sam/stuff/Qt5/5.9.1/Src/qtconnectivity/src/bluetooth/qbluetoothsocket.h",
+		"/home/sam/stuff/Qt5/5.9.1/Src/qtconnectivity/src/bluetooth/bluez/bluetoothmanagement_p.h",
+		"/home/sam/stuff/Qt5/5.9.1/Src/qtconnectivity/src/bluetooth/qbluetoothserver_bluez.cpp",
+		"/home/sam/.config/mpv/config",
+		"/home/sam/stuff/Qt5/5.9.1/Src/qtconnectivity/include/QtBluetooth/5.9.1/QtBluetooth/private/bluetoothmanagement_p.h",
+		"/home/sam/stuff/Qt5/5.9.1/Src/qtconnectivity/src/bluetooth/bluez/hcimanager.cpp",
+		"/home/sam/.kdesrc-buildrc",
+		"/home/sam/downloads/lineage-14.1-20170627-nightly-falcon-signed.txt",
+		"/home/sam/projects/build-WebKit-Desktop_Qt_5_9_0_CLang_64bit-Release/release/Source/Qt5WebKitConfig.cmake",
+		"/home/sam/projects/build-WebKit-Desktop_Qt_5_9_0_CLang_64bit-Release/release/Source/Qt5WebKitWidgetsConfig.cmake",
+		"/home/sam/.cache/kioexec/krun/15626_0/ChangeLog-4.11.8",
+		"/home/sam/projects/kde/source/log/latest/taglib/cmake.log",
+		"/home/sam/projects/kde/source/log/latest/taglib/build.log",
+		"/home/sam/projects/kde/kimap/CMakeLists.txt",
+		"/home/sam/projects/web/Service-Workers-HTTP2-Push/public/service-worker.js",
+		"/home/sam/tmp/e/images.rpa",
+		"/home/sam/documents/pass",
+		"/home/sam/projects/web/trianz/src/components/Home.vue",
+		"/home/sam/projects/web/trianz/node_modules/bulma/sass/elements/title.sass",
+		"/home/sam/projects/web/trianz/src/App.vue",
+		"/home/sam/projects/web/trianz/src/router/index.js",
+		"/home/sam/projects/web/trianz/src/components/Difference.vue",
+		"/home/sam/projects/web/trianz/dist/Caddyfile",
+		"/home/sam/projects/web/trianz/index.html",
+		"/home/sam/tmp/samsung-bios-check/samsung_extract_archive.py",
+		"/home/sam/projects/web/gpg.key",
+		"/home/sam/projects/sa/main.go",
+		"/home/sam/projects/web/TrianzCapital/index.html",
+		"/home/sam/projects/web/TrianzCapital/style.css",
+		"/home/sam/projects/kde/sink/common/pipeline.cpp",
+		"/home/sam/projects/kde/sink/common/pipeline.h",
+		"/home/sam/projects/kde/runtime/include/flatbuffers/flatbuffers.h",
+		"/home/sam/projects/web/trianz/src/components/Contact.vue",
+		"/home/sam/projects/web/html5bones-1.7.1/css/styles.css",
+		"/home/sam/projects/web/html5bones-1.7.1/main-template.html",
+		"/home/sam/projects/web/minimal-pwa/manifest.json",
+		"/home/sam/tmp/debian/opus-1.2/debian/control",
+		"/home/sam/tmp/debian/opus-1.2/opus_1.2-alpha2-1.diff",
+		"/home/sam/projects/web/trianz/static/manifest.json",
+		"/home/sam/projects/web/trianz/node_modules/bulma/sass/utilities/variables.sass",
+		"/home/sam/projects/web/trianz/.gitignore",
+		"/home/sam/projects/web/trianz/node_modules/bulma/sass/utilities/_all.sass",
+		"/home/sam/projects/web/trianz/node_modules/bulma/sass/utilities/initial-variables.sass",
+		"/home/sam/projects/web/trianz/node_modules/bulma/sass/utilities/mixins.sass",
+		"/home/sam/projects/web/trianz/node_modules/bulma/sass/utilities/functions.sass",
+		"/home/sam/projects/web/tri/src/components/Home.vue",
+		"/home/sam/projects/web/trianz/build/dev-client.js",
+		"/home/sam/projects/web/trianz/build/dev-server.js",
+		"/home/sam/projects/web/sample/src/components/Contact.vue",
+		"/home/sam/projects/web/sample/src/components/Pap.vue",
+		"/home/sam/projects/web/sample/src/assets/default.scss",
+		"/home/sam/projects/web/sample/src/components/Home.vue",
+		"/home/sam/projects/web/sample/src/components/Alternative.vue",
+		"/home/sam/projects/web/sample/src/components/Avendus.vue",
+		"/home/sam/projects/web/sample/src/App.vue",
+		"/home/sam/projects/web/sample/src/main.js",
+		"/home/sam/tmp/debian/gemmlowp-0~20170609-g36ffd29/debian/source.lintian-overrides",
+		"/home/sam/tmp/debian/gemmlowp-0~20170609-g36ffd29/debian/dirs",
+		"/home/sam/tmp/debian/gemmlowp-0~20170609-g36ffd29/debian/install",
+		"/home/sam/projects/debian/zimg-2.5.1/debian/files",
+		"/home/sam/projects/debian/debian/zimg/libzimg-dev.install",
+		"/home/sam/projects/debian/debian/zimg/changelog",
+		"/home/sam/projects/debian/zimg-2.5.1/debian/copyright",
+		"/home/sam/projects/debian/vapoursynth-38.0/debian/changelog",
+		"/home/sam/.cache/kioexec/krun/31643_0/ChangeLog-4.11.6",
+		"/etc/apt/sources.list",
+		"/home/sam/projects/debian/vapoursynth-38.0/debian/python3-vapoursynth.install",
+		"/home/sam/projects/debian/vapoursynth-38.0/debian/vapoursynth-dev.install",
+		"/home/sam/projects/debian/vapoursynth-38.0/debian/vapoursynth.install",
+		"/home/sam/projects/debian/vapoursynth-38.0/debian/control",
+		"/home/sam/projects/debian/vapoursynth-38.0/debian/rules",
+		"/home/sam/.config/mpv/motioninterpolation.vpy",
+		"/home/sam/tmp/debian/qbittorrent-3.3.13/debian/rules",
+		"/home/sam/projects/debian/vapoursynth-38.0/debian/vapoursynth-dev/usr/lib/x86_64-linux-gnu/libvapoursynth-script.la",
+		"/home/sam/projects/debian/vapoursynth-38.0/debian/vapoursynth1.install",
+		"/home/sam/projects/debian/vapoursynth-38.0/debian/tmp/usr/lib/x86_64-linux-gnu/libvapoursynth-script.la",
+		"/home/sam/projects/debian/vapoursynth-38.0/debian/tmp/usr/lib/x86_64-linux-gnu/vapoursynth/libvivtc.la",
+		"/home/sam/projects/debian/zimg-2.5.1/debian/libzimg-dev.install",
+		"/home/sam/projects/debian/vapoursynth-38.0/debian/README.Debian",
+		"/home/sam/projects/debian/vapoursynth-38.0/debian/README.source",
+		"/home/sam/projects/web/sample/node_modules/bulma/sass/utilities/initial-variables.sass",
+		"/home/sam/projects/debian/zimg-2.5.1/debian/control"
+	],
+	"find":
+	{
+		"height": 38.0
+	},
+	"find_in_files":
+	{
+		"height": 104.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"images/house/h1.jpg",
+			"images",
+			"jpg",
+			"image",
+			"css",
+			"prom",
+			"icon",
+			"intel",
+			"Avendus",
+			"avendus",
+			"div",
+			"router-link",
+			"link",
+			"router-link",
+			"link",
+			"createstrin",
+			"createstring",
+			"patch",
+			"512x512",
+			"break",
+			"div",
+			"hei",
+			"small",
+			"16",
+			"size",
+			"font",
+			"autoo",
+			"label",
+			"Avendus",
+			"http://ftp.debian.org/debian",
+			"http://deb.debian.org/debian",
+			"jessie",
+			"nnnn",
+			"css",
+			"pap",
+			"href",
+			"a",
+			"},\n",
+			" {\n        test: /\\.(js|vue)$/,\n        loader: 'eslint-loader',\n        enforce: 'pre',\n        include: [resolve('src'), resolve('test')],\n        options: {\n          formatter: require('eslint-friendly-formatter')\n        }\n      },",
+			"prime",
+			"frost",
+			"magnet",
+			"carg",
+			"gradle",
+			"\">",
+			"https",
+			"http",
+			"check",
+			"service",
+			"vst",
+			"ld_",
+			"tools",
+			"mac",
+			"intel",
+			"config.console ",
+			"config.con",
+			"mei",
+			"    #",
+			"    #if !defined(NV_DRM_HELPER_MODE_FILL_FB_STRUCT_HAS_CONST_MODE_CMD_ARG)\n    *cmd = local_cmd;\n    #endif\n",
+			"virtual",
+			"LIC",
+			"refco",
+			"mac80211",
+			"intel",
+			"iwl",
+			"waf-configure-options",
+			"waf-l",
+			"debian",
+			"lib-src",
+			"subdir",
+			"drum",
+			"user_ns",
+			"mode",
+			"m",
+			" m",
+			"modem",
+			"vkinsta",
+			"instance",
+			"dmesg er",
+			"dmesg",
+			"caret",
+			"anima",
+			"drm",
+			"intel",
+			"chmod",
+			" rm -",
+			"chown",
+			"target",
+			"cuda",
+			"static",
+			"apply",
+			"sudo ch",
+			"chmod",
+			"font",
+			"gradle",
+			"deferr",
+			"libr",
+			"dbus",
+			"sheep",
+			"lab",
+			"gitlab",
+			"vmap",
+			"cras",
+			"ret ",
+			"skyl",
+			"patches/",
+			"patch",
+			"mone",
+			"nvidia-sett",
+			"autowaf",
+			"kotlin",
+			"setuptabs",
+			"sele",
+			"hidel",
+			"startloginActivity",
+			"powersave",
+			"scre",
+			"330",
+			"spectrum_l",
+			"chan",
+			"tu",
+			"turb",
+			"mpv",
+			"trusted",
+			"mpv",
+			"buttons",
+			"kde",
+			">-->\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"./home/h1.jpg",
+			"{{ name }}",
+			"https://cloudfront.debian.net/debian/",
+			"a",
+			"Catamaran",
+			"Nemo",
+			"",
+			"put_page",
+			"",
+			".setStyle()",
+			"",
+			":/",
+			":",
+			"strncpy",
+			"",
+			"strcpy"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "dialprop.sublime-project",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 45,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								45,
+								45
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content"
+							],
+							"glslvalidator_configured": true,
+							"glslvalidator_enabled": 1,
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 38.0
+	},
+	"input":
+	{
+		"height": 37.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 122.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.nodejs":
+	{
+		"height": 126.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 116.0
+	},
+	"pinned_build_system": "Packages/User/sub_OF.sublime-build",
+	"project": "dialprop.sublime-project",
+	"replace":
+	{
+		"height": 72.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 299.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
