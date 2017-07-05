@@ -26,3 +26,5 @@ yarn e2e
 # run all tests
 yarn test
 ```
+
+Using Caddy for quick http/2 deployment
